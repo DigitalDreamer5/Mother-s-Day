@@ -8,7 +8,7 @@ Built entirely with HTML, this project is perfect for showcasing messages, poems
 
 - 100% HTML — no dependencies or backend required
 - Easy to customize content for your own Mother's Day wishes or project
-- Responsive layout (if applicable; add more if your HTML includes it)
+- Responsive layout 
 - Fast and lightweight
 
 ## Usage
